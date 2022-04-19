@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NG-ineer
-- 👀 I’m interested in NGineering, Technology
+- 👀 I’m interested in Mech-NGineering, Computer Science, Technology
 - 🌱 I’m currently learning crazy shit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
